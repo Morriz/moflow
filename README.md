@@ -31,10 +31,18 @@ I spent quite some moments in my car lately, and am disappointed about Siri’s 
 
 * [> navigate With Waze](https://www.icloud.com/shortcuts/8d22fd5615a8464faf92f562b310c35d): Accessible from Apple Maps/text-selection sharing, or when a contact or address is found on the clipboard.
 * [> Navigate With Google >](https://www.icloud.com/shortcuts/8d22fd5615a8464faf92f562b310c35d): Same but for Google Maps
-* [Drive Home](https://www.icloud.com/shortcuts/44eb837a991f46e7800e1a48080f3962): Drive home with Waze
-* [Drive To Contact](https://www.icloud.com/shortcuts/a1f49e0bfcc74ad49c65220a39a116f4): Drive to a contact with Waze. Uses ‘Get Contact >’
+* [Drive Home](https://www.icloud.com/shortcuts/44eb837a991f46e7800e1a48080f3962): Drive home with Waze.
+* [Drive To Contact](https://www.icloud.com/shortcuts/a1f49e0bfcc74ad49c65220a39a116f4): Drive to a contact with Waze. Uses ‘Get Contact >’.
 
 On the fly translation is also handy:
+
 * [> Translate Selection](https://www.icloud.com/shortcuts/518ddfb36d95453195f2eeb34576bfcb)
 
+Sending messages is also a pain when I have Siri in English, but when I am in my own country I find myself texting a lot in Dutch. So I created the following:
 
+* [Send Dutch Whatsapp](https://www.icloud.com/shortcuts/27fe89a124cd48878c33f85bf67144ed)
+* [Send Dutch Message](https://www.icloud.com/shortcuts/8afea503602945fabfbc32ad4efa1aac)
+
+And because Apple stopped opening Safari with ‘Siri Google ...’ results:
+
+* [> Google That](https://www.icloud.com/shortcuts/8afea503602945fabfbc32ad4efa1aac): Expects something on the clipboard, presumably from ‘Copy >’ or ‘Copy Dutch’.
